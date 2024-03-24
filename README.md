@@ -2,7 +2,7 @@
 
 This is a directory of helpful scripts i create
 
-cookie-export.py is a useful script that will export your cookies in netscape format to the c:\scripts\ directory
+[cookie-export.py](https://github.com/biffthundermuffin/Helpful-Scripts/blob/main/cookie-export.py) is a useful script that will export your cookies in netscape format to the c:\scripts\ directory
 
 scheduled-runner.py will run a python script every 30 min.
 
