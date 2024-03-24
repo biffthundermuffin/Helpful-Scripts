@@ -1,1 +1,8 @@
 # Helpful-Scripts
+
+This is a directory of helpful scripts i create
+
+cookie-export.py is a useful script that will export your cookies in netscape format to the c:\scripts\ directory
+
+scheduled-runner.py will run a python script every 30 min.
+
