@@ -8,3 +8,4 @@ This is a directory of helpful scripts i create
 
 [PDFOCR.py](https://github.com/biffthundermuffin/Helpful-Scripts/blob/main/pdfocr.py) will need tesseract installed https://github.com/UB-Mannheim/tesseract  as well as the libraries pytesseract and pymupdf
 
+[Transcripts.py](https://github.com/biffthundermuffin/Helpful-Scripts/blob/main/Transcripts.py) requires CUDA but will generate VTT and regular text transcripts.
